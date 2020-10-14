@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{p5nM:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("Wbzz"),c=t("Bl7J"),u=t("vrFN");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(u.a,{title:"ぺーじ とぅー"}),l.a.createElement("h1",null,"第2のページ"),l.a.createElement("p",null,"工事中です.."),l.a.createElement(r.Link,{to:"/"},"トップページに戻る"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-b3a171f762697a80701a.js.map
